@@ -17,3 +17,9 @@ Various notes on working with Canvas.
 * Click on the Cross-list this section button.
 * The new section should now appear in the sections tab of the main course.
 
+## Video Quiz with Grades
+
+Some resources on creating a video quiz (quiz questions asked at certain points in a video) and recording points from the quiz in the Canvas grade book.
+
+* Create a video quiz in Canvas https://support.tlt.utah.edu/hc/en-us/articles/360004881652-How-do-I-create-a-video-quiz-in-Canvas-
+* Connect a video quiz to the Canvas Gradebook https://support.tlt.utah.edu/hc/en-us/articles/4645984643995-How-to-Connect-a-Kaltura-Video-Quiz-to-the-Canvas-Gradebook
