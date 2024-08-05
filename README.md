@@ -23,3 +23,8 @@ Some resources on creating a video quiz (quiz questions asked at certain points 
 
 * Create a video quiz in Canvas https://support.tlt.utah.edu/hc/en-us/articles/360004881652-How-do-I-create-a-video-quiz-in-Canvas-
 * Connect a video quiz to the Canvas Gradebook https://support.tlt.utah.edu/hc/en-us/articles/4645984643995-How-to-Connect-a-Kaltura-Video-Quiz-to-the-Canvas-Gradebook
+
+## University of Utah Canvas Links
+
+* Jane's CON Useful Items Course https://utah.instructure.com/courses/1009499
+* CON Canvas Orientation for New Faculty https://utah.instructure.com/courses/725881
