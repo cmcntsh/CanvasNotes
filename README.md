@@ -28,3 +28,10 @@ Some resources on creating a video quiz (quiz questions asked at certain points 
 
 * Jane's CON Useful Items Course https://utah.instructure.com/courses/1009499
 * CON Canvas Orientation for New Faculty https://utah.instructure.com/courses/725881
+
+## Bulk Import Quiz Questions into Canvas from Word or Excel files
+
+* Install Respondus on your Windows computer.
+  * The installation password can be obtained by going to uen.org and clicking the Respondus link under the Higher Education tab.
+  * You'll need the username and password to enter the page. (R____, U____)
+  * You'll need to request temporary admin rights to install on a CON laptop. (log into VPN, Software Center, Request Temp Admin, Explain what is needed in text box. Submit. Wait for approval to be granted.)
