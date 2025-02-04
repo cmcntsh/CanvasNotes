@@ -32,6 +32,16 @@ Some resources on creating a video quiz (quiz questions asked at certain points 
 ## Bulk Import Quiz Questions into Canvas from Word or Excel files
 
 * Install Respondus on your Windows computer.
-  * The installation password can be obtained by going to uen.org and clicking the Respondus link under the Higher Education tab.
+  * The installation password can be obtained by going to https://www.uen.org/ and clicking the Respondus link under the Higher Education tab.
   * You'll need the username and password to enter the page. (R____, U____)
   * You'll need to request temporary admin rights to install on a CON laptop. (log into VPN, Software Center, Request Temp Admin, Explain what is needed in text box. Submit. Wait for approval to be granted.)
+* Instructions for importing files can be found at Respondus - Help - Help Topics
+  * A popup window will appear. See Start Menu - Importing Questions to Respondus
+  * Additional information about the file formats used for bulk importing questions can be found in the Appendix.
+  * Respondus will install sample files on your Windows computer at Documents - Respondus Projects - (See WorldHistory.csv or WorldHistory.tab)
+* Respondus - Start - Open or Create - Import Questions - Follow steps outlined
+* Respondus - Preview + Publish
+  * You should Preview before you publish
+  * Follow the steps in the Publish Wizard.
+  * You'll need to select your institution (University of Utah)
+  * You'll need to get temporary administrator rights to be able to connect to the U of U server for your Canvas Course
