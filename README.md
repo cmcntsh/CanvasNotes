@@ -33,7 +33,7 @@ Some resources on creating a video quiz (quiz questions asked at certain points 
 
 * Install Respondus on your Windows computer.
   * The installation password can be obtained by going to https://www.uen.org/ and clicking the Respondus link under the Higher Education tab.
-  * You'll need the username and password to enter the page. (R____, U____)
+  * You'll need the username and password to enter the page. (r____, U____)
   * You'll need to request temporary admin rights to install on a CON laptop. (log into VPN, Software Center, Request Temp Admin, Explain what is needed in text box. Submit. Wait for approval to be granted.)
 * Instructions for importing files can be found at Respondus - Help - Help Topics
   * A popup window will appear. See Start Menu - Importing Questions to Respondus
