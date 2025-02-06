@@ -39,9 +39,44 @@ Some resources on creating a video quiz (quiz questions asked at certain points 
   * A popup window will appear. See Start Menu - Importing Questions to Respondus
   * Additional information about the file formats used for bulk importing questions can be found in the Appendix.
   * Respondus will install sample files on your Windows computer at Documents - Respondus Projects - (See WorldHistory.csv or WorldHistory.tab)
+* Create your import file. (I personally prefer to use .csv files because it's easy to have each question on a separate row. I have tried importing using a Word file, because the Respondus help says Respondus will automatically import images included in a Word file. I can see the images in the Respondus preview, but the images don't seem to make it to the U of U Canvas system and I have to manually add images to those questions.)
 * Respondus - Start - Open or Create - Import Questions - Follow steps outlined
+  * #1 Select the file to Import:
+  * Type of File: Tab/Comma Delimited (CSV) [or select one of the other file types if using something different]
+  * File name: [Browse to find your question file and select it.]
+  * A CSV Import Options popup window will appear. I like to click on Preview before clicking OK.
+  * #2 Choose where to add the new Questions:
+  * Create a new document, named: [Use something descriptive so you can find it later in Canvas. I like to have something with short version of the Canvas module name and the topics and "assignment" or "quiz".]
+  * #3 Use the Preview button to check for problems:
+  * Click Preview
+  * Fix any problems that are listed in the Warnings and Notes: at the bottom.
+  * #4 Press the Finish button to complete the process.
+  * Click Finish (Note: You can't have the file open on your computer, or Respondus won't be able to upload the file.)
 * Respondus - Preview + Publish
-  * You should Preview before you publish
+  * You should Preview before you publish.
+  * If you see any typos, you can fix them by clicking on Modify Item and saving your changes. You will go back to the preview window after you save your modifications.
   * Follow the steps in the Publish Wizard.
-  * You'll need to select your institution (University of Utah)
-  * You'll need to get temporary administrator rights to be able to connect to the U of U server for your Canvas Course
+  * #1 Type of Publish: Publish to a single course
+  * #2 Choose and existing server, or "add new server" to add settings information for a new server:
+  * Canvas Server: [The first time you do this you'll enter a name. I just used the suggested "My Canvas Courses".
+  * You'll need to select your institution (University of Utah) the first time you do this. Afterwards, the setting should already be there.
+  * You'll need to get temporary administrator rights to be able to connect to the U of U server for your Canvas Course the first time you do this.
+  * #3 Press [Next] to connect to server
+  * Press Next>
+  * Popup window: Log into your learning system using the browser window.
+  * Press OK and Log in like you normally would.
+  * Respondus LockDown Browser: Press Authorize
+  * When the login process is complete, click OK below to continue.
+  * #1 Select assessment type
+  * Question Bank will load questions into a question bank you can find later when creating a new quiz in Canvas.
+  * Graded Quiz will create a new quiz in your course that includes all the questions.
+  * #2 Specify server action and item name.
+  * I just used the defaults.
+  * #3 Other options
+  * I left both options unchecked.
+  * #4 Press [Next] to choose a location on the server.
+  * Select the course where you want the questions to go from the list.
+  * The list will expand to show quizzes, but you don't need to select anything. Just click Next.
+  * This part will take a minute. Be patient. Once you see the message "--Publish Completed Successfully--" you can click Finish.
+  * Log into Canvas and go to your course.
+  * You should find your new quiz if you selected Graded Quiz earlier. You will need to create a new quiz and select Find Questions and locate your question bank if you selected Question Bank earlier.
